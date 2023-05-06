@@ -18,11 +18,11 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: In *ACL 2023 Findings*
+publication: In *Findings of ACL 2023*
 summary: null
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
-publication_short: In *Findings of ACL 2023*
+publication_short: ""
 url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
 title: Robustness-Aware Word Embedding Improves Certified Robustness to
@@ -38,9 +38,10 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
+  filename: avatar.jpg
 date: 2023-05-06T10:28:34.628Z
 url_slides: ""
-publishDate: 2023-06-01T00:00:00Z
+publishDate: 2023-06-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
