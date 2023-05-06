@@ -22,13 +22,15 @@ organizations:
     url: http://english.hust.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include adversarial robustness, interpretable machine learning.
+bio: My research interests include adversarial robustness, interpretable and trustworthy artificial intelligence.
 
 # Interests to show in About widget
 interests:
-  - Adversarial Robustness
-  - Interpretable Artificial Intelligence
-  - Protecting data copyright and privacy
+  * Adversarial Robustness
+  * Interpretable Artificial Intelligence
+  * Trustworthy Artificial Intelligence
+  * Protecting data copyright and privacy
+  * Theoretical Machine Learning
 
 # Education to show in About widget
 education:
@@ -73,6 +75,6 @@ email: 'yibinwang@hust.edu.cn'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-I am an undergraduate in Computer Science and technology at the Huazhong University of Science and Technology, looking for PhD on AI. 
+ 
+I am an undergraduate in Computer Science and Technology at the Huazhong University of Science and Technology, looking for PhD on AI. I am currently researching adversarial robustness in computer vision and natural language processing, particularly in terms of certified robustness. I am also interested in machine learning theory, interpretable and trustworthy artificial intelligence, as well as data copyright protection. My goal is to provide strong security and ethical guarantees for human use of artificial intelligence.
 {style="text-align: justify;"}

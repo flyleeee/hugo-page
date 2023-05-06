@@ -84,7 +84,7 @@ sections:
           icon_pack: fab
         - name: Math
           description: 50%
-          icon: function
+          icon: sigma
           icon_pack: fas
   # - block: experience
   #   content:
