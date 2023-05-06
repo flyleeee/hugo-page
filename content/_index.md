@@ -74,18 +74,17 @@ sections:
     content:
       title: Skills
       items:
-        - name: Python
-          description: 90%
-          icon: python
-          icon_pack: fab
-        
         - name: Painting
           description: 10%
           icon: palette
           icon_pack: fas
+        - name: Python
+          description: 90%
+          icon: python
+          icon_pack: fab
         - name: Math
           description: 50%
-          icon: math
+          icon: function
           icon_pack: fas
   # - block: experience
   #   content:

@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate at
+role: Undergraduate 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -74,5 +74,5 @@ email: 'yibinwang@hust.edu.cn'
 highlight_name: true
 ---
 
-I am an undergraduate in computer Science and technology at the Huazhong University of Science and Technology, looking for PhD on AI. 
+I am an undergraduate in Computer Science and technology at the Huazhong University of Science and Technology, looking for PhD on AI. 
 {style="text-align: justify;"}
