@@ -46,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'yibinwang@hust.edu.cn'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/flylee20467405
