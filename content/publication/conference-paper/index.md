@@ -35,7 +35,10 @@ abstract: Natural Language Processing (NLP) models have gained great success on 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Adversaral Robustness, Certified Robustness, Natural Language Processing]
+tags: 
+- Adversaral Robustness
+- Certified Robustness
+- Natural Language Processing
 
 # Display this page in the Featured widget?
 featured: true

@@ -42,20 +42,33 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
+  # - block: collection
+  #   id: pub
+  #   content:
+  #     title: Publications
+  #     text: |-
+  #       {{% callout note %}}
+  #       Quickly discover relevant content by [filtering publications](./publication/).
+  #       {{% /callout %}}
+  #     filters:
+  #       folders:
+  #         - publication/conference-paper
+  #       exclude_featured: true
+  #   design:
+  #     columns: '2'
+  #     view: citation
+
   - block: collection
+    id: featured
     content:
       title: Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
       filters:
         folders:
           - publication
-        exclude_featured: true
+        featured_only: true
     design:
       columns: '2'
-      view: citation
+      view: card
 
   - block: features
     content:
