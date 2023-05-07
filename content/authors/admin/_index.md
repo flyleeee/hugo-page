@@ -76,5 +76,5 @@ email: 'yibinwang@hust.edu.cn'
 highlight_name: true
 ---
  
-I am an undergraduate in Computer Science and Technology at the Huazhong University of Science and Technology, looking for PhD on AI. I am currently researching adversarial robustness in computer vision and natural language processing, particularly in terms of certified robustness. I am also interested in machine learning theory, interpretable and trustworthy artificial intelligence, as well as data copyright protection. My goal is to provide strong security and ethical guarantees for human use of artificial intelligence.
+I am an undergraduate in Computer Science and Technology at the Huazhong University of Science and Technology, looking for fully funded PhD position. I am currently researching adversarial robustness in computer vision and natural language processing, particularly in terms of certified robustness. I am also interested in machine learning theory, interpretable and trustworthy artificial intelligence, as well as data copyright protection. My goal is to provide strong security and ethical guarantees for human use of artificial intelligence.
 {style="text-align: justify;"}
