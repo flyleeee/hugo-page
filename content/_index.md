@@ -75,7 +75,7 @@ sections:
       title: Skills
       items:
         - name: Painting
-          description: 10%
+          description: 20%
           icon: palette
           icon_pack: fas
         - name: Python
@@ -83,45 +83,58 @@ sections:
           icon: python
           icon_pack: fab
         - name: Math
-          description: 50%
-          icon: sigma
-          icon_pack: far
-  # - block: experience
-  #   content:
-  #     title: Experience
-  #     # Date format for experience
-  #     #   Refer to https://wowchemy.com/docs/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Experiences.
-  #     #   Add/remove as many `experience` items below as you like.
-  #     #   Required fields are `title`, `company`, and `date_start`.
-  #     #   Leave `date_end` empty if it's your current employer.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - title: CEO
-  #         company: GenCoin
-  #         company_url: ''
-  #         company_logo: org-gc
-  #         location: California
-  #         date_start: '2021-01-01'
-  #         date_end: ''
-  #         description: |2-
-  #             Responsibilities include:
+          description: 40%
+          icon: area-chart
+          icon_pack: fas
+  - block: experience
+    content:
+      title: Education
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Bachelor of Engineer, Computer Science
+          company: Huazhong University of Science and Technology
+          company_url: 'http://english.hust.edu.cn/'
+          company_logo: hust
+          location: Wuhan, China
+          date_start: '2019-07-01'
+          date_end: '2024-07-01'
+          description: |2-
+          Student at The Experimental Class of Computer Excellence Program, GPA:3.79/4.00
 
-  #             * Analysing
-  #             * Modelling
-  #             * Deploying
-  #       - title: Professor of Semiconductor Physics
-  #         company: University X
-  #         company_url: ''
-  #         company_logo: org-x
-  #         location: California
-  #         date_start: '2016-01-01'
-  #         date_end: '2020-12-31'
-  #         description: Taught electronic engineering and researched semiconductor physics.
-  #   design:
-  #     columns: '2'
+          Advisor: [Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ)
 
+    design:
+      columns: '1'
+  - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Research Intern
+          company: HUST, [John Hopcroft Lab for Data Science](http://mathcenter.hust.edu.cn/Research_Groups/John_Hopcroft_Lab_for_Data_Science.htm)
+          company_url: 'http://mathcenter.hust.edu.cn/Research_Groups/John_Hopcroft_Lab_for_Data_Science.htm'
+          company_logo: jhl
+          location: Wuhan, China
+          date_start: '2021-9-01'
+          date_end: '2023-02-15'
+          description: Advised by [Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ)
+        
+    design:
+      columns: '1'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.

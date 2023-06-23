@@ -22,7 +22,7 @@ organizations:
     url: http://english.hust.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include adversarial robustness, interpretable and trustworthy artificial intelligence.
+bio: My research interests include adversarial robustness, trustworthy artificial intelligence and machine learning theory.
 
 # Interests to show in About widget
 interests:
@@ -35,9 +35,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Undergraduate in Computer Science and Technology
+    - course: Bachelor of Engineer, Computer Science
       institution: Huazhong University of Science and Technology
-      year: 2019-
+      year: 2019 - 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -76,9 +76,11 @@ email: 'yibinwang@hust.edu.cn'
 highlight_name: true
 ---
  
-I am a third-year undergraduate in Computer Science and Technology at the Huazhong University of Science and Technology. I am looking for chances of Research Experience about Trustworthy Artificial Intelligence and Fully Funded PhD Position. 
+I am a third-year undergraduate in Computer Science at the **Huazhong University of Science and Technology** under the guidance of Prof. [Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ).
 
-I am researching adversarial robustness of machine learning, particularly in certified robustness. I am also interested in machine learning theory, trustworthy and interpretable artificial intelligence, as well as data copyright protection. My goal is to provide strong security and ethical guarantees for the human use of artificial intelligence.
+I am looking for chances of Research Experience about Trustworthy Artificial Intelligence and Fully Funded Ph.D. Position. 
+
+I am researching adversarial robustness of machine learning, particularly in certified robustness. 
 <!-- {style="text-align: justify;"} -->
-{font="classic", font_size="m"}
+
 
