@@ -76,5 +76,6 @@ email: 'yibinwang@hust.edu.cn'
 highlight_name: true
 ---
  
-I am a third-year undergraduate in Computer Science and Technology at the Huazhong University of Science and Technology, looking for chances of Research Experience about Trustworthy Artificial Intelligence and Fully Funded PhD Position. I am researching adversarial robustness of machine learning, particularly in certified robustness. I am also interested in machine learning theory, trustworthy and interpretable artificial intelligence, as well as data copyright protection. My goal is to provide strong security and ethical guarantees for the human use of artificial intelligence.
+I am a third-year undergraduate in Computer Science and Technology at the Huazhong University of Science and Technology. I am looking for chances of Research Experience about Trustworthy Artificial Intelligence and Fully Funded PhD Position. 
+I am researching adversarial robustness of machine learning, particularly in certified robustness. I am also interested in machine learning theory, trustworthy and interpretable artificial intelligence, as well as data copyright protection. My goal is to provide strong security and ethical guarantees for the human use of artificial intelligence.
 {style="text-align: justify;"}
