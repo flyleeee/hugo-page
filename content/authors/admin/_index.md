@@ -78,9 +78,9 @@ highlight_name: true
  
 I am a third-year undergraduate in Computer Science at the **Huazhong University of Science and Technology** under the guidance of Prof. [Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ).
 
-I am looking for chances of Research Experience about Trustworthy Artificial Intelligence and Fully Funded Ph.D. Position. 
+I am looking for chances of Research Experience and Fully Funded **Ph.D.** Position. 
 
-I am researching adversarial robustness of machine learning, particularly in certified robustness. 
+I am researching **Adversarial Robustness** of Machine Learning, particularly in **Certified Robustness**. 
 <!-- {style="text-align: justify;"} -->
 
 
