@@ -108,8 +108,6 @@ sections:
           description: |2- 
               Student at The Experimental Class of Computer Excellence Program, GPA:3.79/4.00
 
-              Advisor: [Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ)
-
     design:
       columns: '1'
   - block: experience
@@ -131,7 +129,7 @@ sections:
           location: Wuhan, China
           date_start: '2021-09-01'
           date_end: '2023-06-15'
-          description: Advised by [Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ)
+          description: "Advisor: [Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ)"
         
     design:
       columns: '1'
