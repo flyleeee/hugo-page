@@ -130,7 +130,7 @@ sections:
           company_logo: jhl
           location: Wuhan, China
           date_start: '2021-09-01'
-          date_end: '2023-02-15'
+          date_end: '2023-06-15'
           description: Advised by [Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ)
         
     design:
