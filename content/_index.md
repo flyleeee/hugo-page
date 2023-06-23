@@ -129,7 +129,7 @@ sections:
           company_url: 'http://mathcenter.hust.edu.cn/Research_Groups/John_Hopcroft_Lab_for_Data_Science.htm'
           company_logo: jhl
           location: Wuhan, China
-          date_start: '2021-9-01'
+          date_start: '2021-09-01'
           date_end: '2023-02-15'
           description: Advised by [Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ)
         
