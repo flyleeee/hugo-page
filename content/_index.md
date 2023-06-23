@@ -106,7 +106,7 @@ sections:
           date_start: '2019-07-01'
           date_end: '2024-07-01'
           description: |2- 
-              Student at The Experimental Class of Computer Excellence Program, GPA:3.79/4.00
+              Student at The Experimental Class of Computer Excellence Program
 
     design:
       columns: '1'
