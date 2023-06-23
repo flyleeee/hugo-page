@@ -105,10 +105,10 @@ sections:
           location: Wuhan, China
           date_start: '2019-07-01'
           date_end: '2024-07-01'
-          description: |2-
-          Student at The Experimental Class of Computer Excellence Program, GPA:3.79/4.00
+          description: |2- 
+              Student at The Experimental Class of Computer Excellence Program, GPA:3.79/4.00
 
-          Advisor: [Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ)
+              Advisor: [Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ)
 
     design:
       columns: '1'
