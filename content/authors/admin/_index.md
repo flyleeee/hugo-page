@@ -26,11 +26,11 @@ bio: My research interests include adversarial robustness, trustworthy artificia
 
 # Interests to show in About widget
 interests: |2- 
-  * Adversarial Robustness
-  * Interpretable Artificial Intelligence
-  * Trustworthy Artificial Intelligence
-  * Protecting data copyright and privacy
-  * Theoretical Machine Learning
+    * Adversarial Robustness
+    * Interpretable Artificial Intelligence
+    * Trustworthy Artificial Intelligence
+    * Protecting data copyright and privacy
+    * Theoretical Machine Learning
 
 # Education to show in About widget
 education:
