@@ -16,7 +16,7 @@ abstract: Natural Language Processing (NLP) models have gained great success on
   various state-of-the-art certified defense baselines and generalizes well to
   unseen substitutions.
 slides: ""
-url_pdf: ""
+url_pdf: https://aclanthology.org/2023.findings-acl.42.pdf
 publication_types:
   - "1"
 authors:
@@ -28,20 +28,13 @@ author_notes:
   - Equal contribution
   - Equal contribution
 publication: In *Findings of ACL 2023*
-summary: Natural Language Processing (NLP) models have gained great success on
-  clean texts, but they are known to be vulnerable to adversarial examples
-  typically crafted by synonym substitutions. In this paper, we target to solve
-  this problem and find that word embedding is important to the certified
-  robustness of NLP models. Given the findings, we propose the Embedding
-  Interval Bound Constraint (EIBC) triplet loss to train robustness-aware word
-  embeddings for better certified robustness.
+summary: Natural Language Processing (NLP) models have gained great success on clean texts, but they are known to be vulnerable to adversarial examples typically crafted by synonym substitutions. In this paper, we target to solve this problem and find that word embedding is important to the certified robustness of NLP models. Given the findings, we propose the Embedding Interval Bound Constraint (EIBC) triplet loss to train robustness-aware word embeddings for better certified robustness.
 url_dataset: ""
 url_project: ""
 publication_short: In *Findings of ACL 2023*
 url_source: ""
 url_video: ""
-title: Robustness-Aware Word Embedding Improves Certified Robustness to
-  Adversarial Word Substitutions
+title: Robustness-Aware Word Embedding Improves Certified Robustness to Adversarial Word Substitutions
 doi: ""
 featured: true
 tags:
@@ -58,4 +51,7 @@ url_slides: ""
 publishDate: 2023-05-06T00:00:00Z
 url_poster: ""
 url_code: https://github.com/JHL-HUST/EIBC-IBP
+links:
+- name: ACL Anthology
+  url: https://aclanthology.org/2023.findings-acl.42/
 ---
