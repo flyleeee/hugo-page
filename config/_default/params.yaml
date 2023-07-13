@@ -80,7 +80,7 @@ features:
     gravatar: false
     shape: circle
   comment:
-    provider: 'utterances'
+    provider: ''
     disqus:
       shortname: ''
       show_count: true
