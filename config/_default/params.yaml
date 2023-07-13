@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
-  font_size: L
+  theme_day: personal
+  theme_night: personal
+  font: personal
+  font_size: m
 
 # SEO
 
@@ -32,7 +32,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: r
     show_logo: true
     show_language: false
     show_day_night: true
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Yibin Wang. This website is built using [Hugo](https://gohugo.io/) and [Wowchemy](https://wowchemy.com/). '
     license:
       enable: true
       allow_derivatives: false
@@ -61,10 +61,15 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: github-light
-    theme_dark: dracula
+    enable: true
+    extra_languages:
+      - python
+      - latex
+      - EmacsLisp
+    # theme-light: nord
+    theme: github-dark
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
@@ -75,7 +80,7 @@ features:
     gravatar: false
     shape: circle
   comment:
-    provider: ''
+    provider: 'utterances'
     disqus:
       shortname: ''
       show_count: true
