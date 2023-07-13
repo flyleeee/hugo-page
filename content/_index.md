@@ -46,7 +46,9 @@ sections:
     id: featured
     content:
       title: Publications
-      text: 'Check out my recent blog posts below!'
+      # text: ''
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 0
       filters:
         folders:
           - publication
@@ -59,7 +61,7 @@ sections:
       sort_by: 'Date'
       sort_ascending: false
     design:
-      columns: '1'
+      columns: '2'
       view: compact
 
   # - block: collection
