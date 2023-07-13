@@ -47,7 +47,7 @@ sections:
     content:
       title: Recent News
       # subtitle: A subtitle
-      text: 
+      text: |2- 
       * [05/2023] Our paper “[Robustness-Aware Word Embedding Improves Certified Robustness to Adversarial Word Substitutions](https://aclanthology.org/2023.findings-acl.42/)” has been accepted to the findings of EMNLP 2022
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
