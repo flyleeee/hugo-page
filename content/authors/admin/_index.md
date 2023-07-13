@@ -78,7 +78,7 @@ highlight_name: true
  
 I am a third-year undergraduate in Computer Science at the **Huazhong University of Science and Technology** under the guidance of Prof. [Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ).
 
-I am looking for chances of Research Experience and Fully Funded **Ph.D.** Position. 
+I am looking for chances of Research Experience and Fully Funded **Ph.D.** Position. Here is my [CV](https://yibinwang.netlify.app/uploads/resume.pdf).
 
 I am researching **Adversarial Robustness** of Machine Learning, particularly in **Certified Robustness**. 
 <!-- {style="text-align: justify;"} -->
