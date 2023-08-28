@@ -37,7 +37,7 @@ education:
   courses:
     - course: Bachelor of Engineer, Computer Science
       institution: Huazhong University of Science and Technology
-      year: 2019 - 
+      year: 2019 - 2024(expected)
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
