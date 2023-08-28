@@ -139,13 +139,11 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-
         - title: Remote Research Intern
-          company: [Rutgers University](https://www.rutgers.edu/)
+          company: Rutgers University
           company_url: 'https://www.rutgers.edu/'
           location: Wuhan, China
           date_start: '2023-09-01'
-          date_end: ''
           description: "Advisor: [Hao Wang](http://www.wanghao.in/)"
 
         - title: Research Intern
