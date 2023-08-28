@@ -145,6 +145,7 @@ sections:
           company_url: 'https://www.rutgers.edu/'
           location: Wuhan, China
           date_start: '2023-09-01'
+          date_end:
           description: "Advisor: [Hao Wang](http://www.wanghao.in/)"
 
         - title: Research Intern
