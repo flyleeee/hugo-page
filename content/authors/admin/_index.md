@@ -76,11 +76,11 @@ email: 'yibinwang@hust.edu.cn'
 highlight_name: true
 ---
  
-I am a third-year undergraduate in Computer Science at the **Huazhong University of Science and Technology** under the guidance of Prof. [Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ).
+I am a fourth-year undergraduate in Computer Science at the **Huazhong University of Science and Technology**. I was under the guidance of Prof. [Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ). Now I am interning under the guidance of Prof. [Hao Wang](http://www.wanghao.in/).
 
-I am looking for chances of Research Experience and Fully Funded **Ph.D.** Position. Here is my [CV](https://yibinwang.netlify.app/uploads/resume.pdf).
+I am looking for Fully Funded **Ph.D.** Position. Here is my [CV](https://yibinwang.netlify.app/uploads/resume.pdf).
 
-I am researching **Adversarial Robustness** of Machine Learning, particularly in **Certified Robustness**. 
+I am researching **Adversarial Robustness** of Machine Learning, in both **Empirical Robustness** and **Certified Robustness**. 
 <!-- {style="text-align: justify;"} -->
 
 
