@@ -149,7 +149,7 @@ sections:
         - title: Research Intern
           company: HUST, [John Hopcroft Lab for Data Science](http://mathcenter.hust.edu.cn/Research_Groups/John_Hopcroft_Lab_for_Data_Science.htm)
           company_url: 'http://mathcenter.hust.edu.cn/Research_Groups/John_Hopcroft_Lab_for_Data_Science.htm'
-          company_logo: jhl
+          # company_logo: jhl
           location: Wuhan, China
           date_start: '2021-09-01'
           date_end: '2023-06-15'
