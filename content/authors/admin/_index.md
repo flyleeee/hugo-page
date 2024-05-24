@@ -22,7 +22,7 @@ organizations:
     url: http://english.hust.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include adversarial robustness, trustworthy artificial intelligence and machine learning theory.
+bio: My research interests include trustworthy artificial intelligence, adversarial robustness and machine learning theory.
 
 # Interests to show in About widget
 interests: 
@@ -46,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'yibinwang@hust.edu.cn'
+    link: 'wyb896409234@gmail.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/flylee20467405
