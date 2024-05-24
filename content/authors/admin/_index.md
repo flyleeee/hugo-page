@@ -80,7 +80,7 @@ I am a fourth-year undergraduate in Computer Science at the **Huazhong Universit
 
 I am looking for Fully Funded **Ph.D.** Position. Here is my [CV](https://yibinwang.netlify.app/uploads/resume.pdf).
 
-I am researching **Adversarial Robustness** of Machine Learning, in both **Empirical Robustness** and **Certified Robustness**. 
+My research interests include **trustworthy** artificial intelligence, adversarial robustness and machine learning theory.
 <!-- {style="text-align: justify;"} -->
 
 
