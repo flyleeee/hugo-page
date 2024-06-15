@@ -48,8 +48,8 @@ sections:
       title: Recent News
       # subtitle: A subtitle
       text: |2- 
-          * [04/2024] I am honored to have participated in the work "Continual Learning of Large Language Models: A Comprehensive Survey."
-          * [05/2023] Our paper “[Robustness-Aware Word Embedding Improves Certified Robustness to Adversarial Word Substitutions](https://aclanthology.org/2023.findings-acl.42/)” has been accepted to the findings of ACL 2023
+          * [04/2024] I am honored to have participated in the work "[Continual Learning of Large Language Models: A Comprehensive Survey]"(https://arxiv.org/abs/2404.16789)
+          * [05/2023] Our paper "[Robustness-Aware Word Embedding Improves Certified Robustness to Adversarial Word Substitutions](https://aclanthology.org/2023.findings-acl.42/)" has been accepted to the findings of ACL 2023
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
