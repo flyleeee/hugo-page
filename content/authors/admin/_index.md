@@ -76,7 +76,7 @@ email: 'yibinwang@hust.edu.cn'
 highlight_name: true
 ---
  
-I am a fourth-year undergraduate in Computer Science at the **Huazhong University of Science and Technology**. I was under the guidance of Prof. [Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ). Now I am interning under the guidance of Prof. [Hao Wang](http://www.wanghao.in/).
+I am a fourth-year undergraduate in Computer Science at the Huazhong University of Science and Technology. I was under the guidance of Prof. [Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ) at HUST. I worked closely with Prof. [Hao Wang](http://www.wanghao.in/) and Mr. [Haizhou Shi](https://haizhou-shi.github.io/) on Bayesian LLMs. I am currently interning under the guidance of Prof. [Huan Zhang](https://www.huan-zhang.com/).
 
 I am looking for Fully Funded **Ph.D.** Position. Here is my [CV](https://yibinwang.netlify.app/uploads/resume.pdf).
 

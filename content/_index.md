@@ -48,6 +48,7 @@ sections:
       title: Recent News
       # subtitle: A subtitle
       text: |2- 
+          * [04/2024] I am honored to have participated in the work "Continual Learning of Large Language Models: A Comprehensive Survey."
           * [05/2023] Our paper “[Robustness-Aware Word Embedding Improves Certified Robustness to Adversarial Word Substitutions](https://aclanthology.org/2023.findings-acl.42/)” has been accepted to the findings of ACL 2023
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -139,6 +140,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Intern
+          company: UIUC
+          company_url: 'https://illinois.edu/'
+          date_start: '2024-06-15'
+          description: "Advisor: [Huan Zhang](http://www.huan-zhang.com/)"
+
         - title: Remote Research Intern
           company: Rutgers University
           company_url: 'https://www.rutgers.edu/'
