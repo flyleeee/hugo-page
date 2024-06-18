@@ -142,7 +142,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Intern
-          company: UIUC
+          company: University of Illinois Urbana-Champaign (UIUC)
           company_url: 'https://illinois.edu/'
           date_start: '2024-06-15'
           description: "Advisor: [Huan Zhang](http://www.huan-zhang.com/)"
