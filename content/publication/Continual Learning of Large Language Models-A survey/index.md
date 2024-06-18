@@ -2,7 +2,7 @@
 slides: ""
 url_pdf: https://arxiv.org/pdf/2404.16789
 publication_types:
-  - "1"
+  - "3"
 authors:
   - Haizhou Shi
   - Zihao Xu
