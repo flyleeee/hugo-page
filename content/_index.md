@@ -48,9 +48,9 @@ sections:
       title: Recent News
       # subtitle: A subtitle
       text: |2- 
-          * [06/2024] Excited to announce that our work on [Bayesian PEFT](https://arxiv.org/abs/2406.11675) has been released on arXiv!
+          * [06/2024] Excited to announce that our [work on Bayesian PEFT](https://arxiv.org/abs/2406.11675) has been released on arXiv!
           * [04/2024] I am honored to have participated in the [survey on Continual Learning of LLMs](https://arxiv.org/abs/2404.16789).
-          * [05/2023] My [first work](https://aclanthology.org/2023.findings-acl.42/) on certified robutness of NLP has been accepted to the **findings of ACL 2023**! 
+          * [05/2023] My [first work on certified robutness of NLP](https://aclanthology.org/2023.findings-acl.42/) has been accepted to the **findings of ACL 2023**! 
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
