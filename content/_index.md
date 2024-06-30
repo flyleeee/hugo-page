@@ -122,8 +122,8 @@ sections:
           company_url: 'http://english.hust.edu.cn/'
           company_logo: hust
           location: Wuhan, China
-          date_start: '2019-07-01'
-          date_end: '2024-07-01'
+          date_start: '2019-09-01'
+          date_end: '2024-06-15'
           description: |2- 
               Student at The Experimental Class of Computer Excellence Program
 

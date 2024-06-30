@@ -14,18 +14,19 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate 
+role: Intern
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Huazhong University of Science and Technology
-    url: http://english.hust.edu.cn/
+  - name: University of Illinois Urbana-Champaign (UIUC)
+    url: https://illinois.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include trustworthy artificial intelligence, adversarial robustness and machine learning theory.
+bio: My research interests focus on trustworthy artificial intelligence, particularly in the areas of calibration, generalization, and adversarial robustness.
 
 # Interests to show in About widget
 interests: 
+  - Hallucinations in LLMs
   - Adversarial Robustness
   - Trustworthy Artificial Intelligence
   # - Protecting data copyright and privacy
@@ -75,11 +76,11 @@ email: 'yibinwang@hust.edu.cn'
 highlight_name: true
 ---
  
-I am a fourth-year undergraduate in Computer Science at the Huazhong University of Science and Technology. I was under the guidance of Prof. [Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ) @ HUST. I worked closely with Prof. [Hao Wang](http://www.wanghao.in/) @ Rutgers and Mr. [Haizhou Shi](https://haizhou-shi.github.io/) @ Rutgers on Bayesian LLMs. I am currently interning under the guidance of Prof. [Huan Zhang](https://www.huan-zhang.com/) @ UIUC.
+I am currently on a gap year. I received my Bachelor's degree at Huazhong University of Science and Technology(HUST) in 2024. I was under the guidance of Prof. [Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ) @ HUST. I work closely with Prof. [Hao Wang](http://www.wanghao.in/) @ Rutgers and Mr. [Haizhou Shi](https://haizhou-shi.github.io/) @ Rutgers on Bayesian LLMs. I am currently interning under the guidance of Prof. [Huan Zhang](https://www.huan-zhang.com/) @ UIUC.
 
 I am looking for Fully Funded **Ph.D.** Position. Here is my [CV](https://yibinwang.netlify.app/uploads/resume.pdf).
 
-My research interests include **trustworthy** artificial intelligence, adversarial robustness and machine learning theory.
+My research interests focus on **trustworthy** artificial intelligence, particularly in the areas of calibration, generalization, and adversarial robustness.
 <!-- {style="text-align: justify;"} -->
 
 
