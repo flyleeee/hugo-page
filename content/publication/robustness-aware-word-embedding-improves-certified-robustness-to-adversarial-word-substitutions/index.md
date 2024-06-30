@@ -47,8 +47,8 @@ title: Robustness-Aware Word Embedding Improves Certified Robustness to Adversar
 doi: ""
 featured: true
 tags:
-  - Adversaral Robustness
   - Certified Robustness
+  - Trustworthy AI
   - Natural Language Processing
 projects: []
 image:

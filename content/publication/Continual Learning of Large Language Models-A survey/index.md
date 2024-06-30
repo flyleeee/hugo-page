@@ -25,7 +25,8 @@ title: "Continual Learning of Large Language Models: A Comprehensive Survey"
 doi: ""
 featured: true
 tags:
-  - Natural Language Processing
+  - Large Language Models
+  - Continual Learning
 projects: []
 image:
   filename: avatar.jpg

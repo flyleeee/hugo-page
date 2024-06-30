@@ -25,7 +25,8 @@ doi: ""
 featured: true
 tags:
   - Bayesain Deep Learning
-  - Natural Language Processing
+  - Trustworthy AI
+  - Large Language Models
 projects: []
 image:
   filename: avatar.png
