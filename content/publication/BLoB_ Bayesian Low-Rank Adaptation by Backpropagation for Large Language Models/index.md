@@ -24,7 +24,8 @@ title: "BLoB: Bayesian Low-Rank Adaptation by Backpropagation for Large Language
 doi: ""
 featured: true
 tags:
-  - 
+  - Bayesain Deep Learning
+  - Natural Language Processing
 projects: []
 image:
   filename: avatar.png
