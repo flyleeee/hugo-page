@@ -26,7 +26,7 @@ bio: My research interests focus on trustworthy artificial intelligence, particu
 
 # Interests to show in About widget
 interests: 
-  - Hallucinations in LLMs
+  - Hallucination in LLM
   - Adversarial Robustness
   - Trustworthy Artificial Intelligence
   # - Protecting data copyright and privacy
