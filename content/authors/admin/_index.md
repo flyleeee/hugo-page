@@ -80,7 +80,7 @@ I am currently on a gap year. I received my Bachelor's degree at Huazhong Univer
 
 I am looking for Fully Funded **Ph.D.** Position. Here is my [CV](https://yibinwang.netlify.app/uploads/resume.pdf).
 
-My research interests focus on **trustworthy** artificial intelligence, particularly in the areas of calibration, generalization, and adversarial robustness.
+My research interests focus on **trustworthy** trustworthy AI, particularly in the areas of calibration, generalization, and adversarial robustness.
 <!-- {style="text-align: justify;"} -->
 
 
