@@ -76,11 +76,11 @@ email: 'yibinwang@hust.edu.cn'
 highlight_name: true
 ---
  
-I am currently on a gap year. I received my Bachelor's degree at Huazhong University of Science and Technology(HUST) in 2024. I was under the guidance of Prof. [Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ) @ HUST. I work closely with Prof. [Hao Wang](http://www.wanghao.in/) @ Rutgers and Mr. [Haizhou Shi](https://haizhou-shi.github.io/) @ Rutgers on Bayesian LLMs. I am currently interning under the guidance of Prof. [Huan Zhang](https://www.huan-zhang.com/) @ UIUC.
+I am currently on a gap year. I received my Bachelor's degree at Huazhong University of Science and Technology (HUST) in 2024. I was under the guidance of Prof. [Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ) @ HUST. I work closely with Prof. [Hao Wang](http://www.wanghao.in/) @ Rutgers and Mr. [Haizhou Shi](https://haizhou-shi.github.io/) @ Rutgers on Bayesian LLMs. I am currently interning under the guidance of Prof. [Huan Zhang](https://www.huan-zhang.com/) @ UIUC.
 
 I am looking for Fully Funded **Ph.D.** Position. Here is my [CV](https://yibinwang.netlify.app/uploads/resume.pdf).
 
-My research interests focus on **trustworthy** trustworthy AI, particularly in the areas of calibration, generalization, and adversarial robustness.
+My research interests focus on **trustworthy** AI, particularly in the areas of calibration, generalization, and adversarial robustness.
 <!-- {style="text-align: justify;"} -->
 
 
