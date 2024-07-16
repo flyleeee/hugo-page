@@ -284,7 +284,6 @@ sections:
   #     view: card
 
 
-
   # - block: collection
   #   id: talks
   #   content:
