@@ -26,7 +26,7 @@ bio: My research interests focus on trustworthy artificial intelligence, particu
 
 # Interests to show in About widget
 interests: 
-  - Hallucination in LLM
+  - Bayesian LLMs
   - Adversarial Robustness
   - Trustworthy Artificial Intelligence
   # - Protecting data copyright and privacy
@@ -82,7 +82,7 @@ I was under the guidance of Prof. [Kun He](https://scholar.google.com/citations?
 
 I am looking for Fully Funded **Ph.D.** Position. Here is my [CV](https://yibinwang.netlify.app/uploads/resume.pdf).
 
-My research interests focus on **trustworthy** AI, particularly in the areas of adversarial robustness, uncertainty estimation and quantification.
+My research interests focus on **trustworthy** AI, particularly in the areas of generalization, calibration and adversarial robustness.
 <!-- {style="text-align: justify;"} -->
 
 
