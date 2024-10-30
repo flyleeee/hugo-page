@@ -85,7 +85,7 @@ I am looking for Fully Funded **Ph.D.** Position. Here is my [CV](https://yibinw
 My research interests focus on **trustworthy** AI, particularly in the areas of generalization, calibration and adversarial robustness.
 
 
-> From such a gentle thing, from such a fountain of all delight, my every pain is born. -- Michelangelo
+> From such a gentle thing, from such a fountain of all delight, my every pain is born. <br> —— Michelangelo
 <!-- {style="text-align: justify;"} -->
 
 
