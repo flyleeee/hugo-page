@@ -83,6 +83,9 @@ I was under the guidance of Prof. [Kun He](https://scholar.google.com/citations?
 I am looking for Fully Funded **Ph.D.** Position. Here is my [CV](https://yibinwang.netlify.app/uploads/resume.pdf).
 
 My research interests focus on **trustworthy** AI, particularly in the areas of generalization, calibration and adversarial robustness.
+
+
+> From such a gentle thing, from such a fountain of all delight, my every pain is born. -- Michelangelo
 <!-- {style="text-align: justify;"} -->
 
 
