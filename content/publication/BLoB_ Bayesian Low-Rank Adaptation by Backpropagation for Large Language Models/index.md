@@ -33,11 +33,13 @@ image:
   focal_point: Center
   preview_only: false
 date: 2024-06-17T00:00:00Z
-url_slides: ""
+url_slides: "https://nips.cc/media/neurips-2024/Slides/95507.pdf"
 publishDate: 2024-06-17T00:00:00Z
-url_poster: ""
-url_code: ""
+url_poster: "https://nips.cc/media/PosterPDFs/NeurIPS%202024/95507.png?t=1731732028.1365483"
+url_code: "https://github.com/Wang-ML-Lab/bayesian-peft"
 links:
 - name: arxiv
   url: https://arxiv.org/abs/2406.11675
+- name: NeurIPS
+  url: https://nips.cc/virtual/2024/poster/95507
 ---
