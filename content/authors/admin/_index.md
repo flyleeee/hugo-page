@@ -49,7 +49,7 @@ social:
     link: 'mailto:wyb896409234@gmail.com'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/flylee20467405
+    link: https://x.com/Yibin_Wang_
     label: Follow me on Twitter
     display:
       header: true
