@@ -27,10 +27,6 @@ tags:
   - Trustworthy AI
   - Large Language Models
 projects: []
-image:
-  filename: avatar.png
-  focal_point: Center
-  preview_only: false
 date: 2024-12-10T00:00:00Z
 url_pdf: "https://arxiv.org/pdf/2412.05723"
 url_slides: ""
