@@ -46,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:wyb896409234@gmail.com'
+    link: 'mailto:yibinlwang@gmail.com'
   - icon: twitter
     icon_pack: fab
     link: https://x.com/Yibin_Wang_
@@ -59,9 +59,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/flyleeee
-  # - icon: linkedin
-  #   icon_pack: fab
-  #   link: https://www.linkedin.com/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/yibin-wang-1979b5274/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
