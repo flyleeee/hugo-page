@@ -10,7 +10,7 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: "Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024."
+publication: "Advances in Neural Information Processing Systems (NeurIPS), 2024"
 publication_short: "NeurIPS 2024"
 abstract: Large Language Models (LLMs) often suffer from overconfidence during inference, particularly when adapted to downstream domain-specific tasks with limited data. Previous work addresses this issue by employing approximate Bayesian estimation after the LLMs are trained, enabling them to quantify uncertainty. However, such post-training approaches' performance is severely limited by the parameters learned during training. In this paper, we go beyond post-training Bayesianization and propose Bayesian Low-Rank Adaptation by Backpropagation (BLoB), an algorithm that continuously and jointly adjusts both the mean and covariance of LLM parameters throughout the whole fine-tuning process. Our empirical results verify the effectiveness of BLoB in terms of generalization and uncertainty estimation, when evaluated on both in-distribution and out-of-distribution data.
 

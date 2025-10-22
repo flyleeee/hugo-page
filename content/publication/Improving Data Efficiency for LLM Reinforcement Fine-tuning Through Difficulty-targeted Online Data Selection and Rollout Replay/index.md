@@ -2,13 +2,15 @@
 publication_types:
   - "3"
 authors:
-  - Haizhou Shi
+  - Yifan Sun
+  - Jingyan Shen
   - admin
-  - Ligong Han
-  - Dimitris Metaxas
+  - Tianyu Chen
+  - Zhendong Wang
+  - Mingyuan Zhou
   - Huan Zhang
-  - Hao Wang
 author_notes:
+  - Equal contribution
   - Equal contribution
   - Equal contribution
 publication: "Advances in Neural Information Processing Systems (NeurIPS), 2025"
@@ -22,21 +24,21 @@ url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-title: "Training-Free Bayesianization for Low-Rank Adapters of Large Language Models"
+title: "Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay"
 doi: ""
 featured: true
 tags:
-  - Bayesain Deep Learning
-  - Trustworthy AI
+  - RL Fine-tuing
+  - Data Selection
   - Large Language Models
 projects: []
-date: 2024-12-10T00:00:00Z
-url_pdf: "https://arxiv.org/pdf/2412.05723"
+date: 2025-06-10T00:00:00Z
+url_pdf: "https://arxiv.org/pdf/2506.05316"
 url_slides: ""
-publishDate: 2024-12-10T00:00:00Z
-url_poster: "https://nips.cc/media/PosterPDFs/NeurIPS%202024/95507.png?t=1731732028.1365483"
-url_code: "https://github.com/Wang-ML-Lab/bayesian-peft"
+publishDate: 2025-06-10T00:00:00Z
+url_poster: 
+url_code: 
 links:
 - name: arxiv
-  url: https://arxiv.org/abs/2412.05723
+  url: https://arxiv.org/abs/2506.05316
 ---
