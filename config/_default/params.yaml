@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Yibin Wang is currently on a gap year. He received Bachelor degree at Huazhong University of Science and Technology (HUST) in 2024. His research interests focus on trustworthy AI, particularly in the areas of calibration, generalization, and adversarial robustness'
+    description: 'Yibin Wang received Bachelor degree at Huazhong University of Science and Technology (HUST) in 2024. His research interests focus on LLMs and RL.'
     twitter: 'Yibin_Wang_'
   analytics:
     google_analytics: 'G-5V5X93RC4W'

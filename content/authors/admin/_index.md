@@ -14,15 +14,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Intern
+role: 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Illinois Urbana-Champaign (UIUC)
-    url: https://illinois.edu/
+  - name: 
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests focus on trustworthy artificial intelligence, particularly in the areas of calibration, generalization, and adversarial robustness.
+bio: My research interests focus on LLMs and RL, particularly in the areas of calibration and generalization.
 
 # Interests to show in About widget
 interests: 
@@ -70,19 +70,19 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'yibinwang@hust.edu.cn'
+email: 'yibinlwang@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
  
-I am currently on a gap year. I received my Bachelor's degree at Huazhong University of Science and Technology (HUST) in 2024. 
+I received my Bachelor's degree at Huazhong University of Science and Technology (HUST) in 2024. 
 
 I was under the guidance of Prof. [Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ) @ HUST. I work closely with Prof. [Hao Wang](http://www.wanghao.in/) @ Rutgers and Mr. [Haizhou Shi](https://haizhou-shi.github.io/) @ Rutgers on Bayesian LLMs. I am currently interning under the guidance of Prof. [Huan Zhang](https://www.huan-zhang.com/) @ UIUC.
 
-I am looking for Fully Funded **Ph.D.** Position. Here is my [CV](https://yibinwang.netlify.app/uploads/resume.pdf).
+Here is my [CV](https://yibinwang.netlify.app/uploads/resume.pdf).
 
-My research interests focus on **trustworthy** AI, particularly in the areas of generalization, calibration and adversarial robustness.
+My research interests focus on **LLMs and RL**, particularly in the areas of generalization and calibration.
 
 
 > From such a gentle thing, from such a fountain of all delight, my every pain is born. <br> —— Michelangelo
