@@ -42,19 +42,19 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-  - block: markdown
-    id: news
-    content:
-      title: Recent News
-      # subtitle: A subtitle
-      text: |2- 
-          * [2/2025] Our [work on **Training-free** Bayesian PEFT for LLMs](https://arxiv.org/abs/2412.05723) got accepted at ICLR 2025 “QUESTION” Workshop!
-          * [10/2024] Our [work on Bayesian PEFT for LLMs](https://arxiv.org/abs/2406.11675) has been accepted to the **NeruIPS 2024**! 
-          * [04/2024] I am honored to have participated in the [survey on Continual Learning of LLMs](https://arxiv.org/abs/2404.16789).
-          * [05/2023] My [first work on certified robutness of NLP](https://aclanthology.org/2023.findings-acl.42/) has been accepted to the **findings of ACL 2023**! 
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
+  # - block: markdown
+  #   id: news
+  #   content:
+  #     title: Recent News
+  #     # subtitle: A subtitle
+  #     text: |2- 
+  #         * [2/2025] Our [work on **Training-free** Bayesian PEFT for LLMs](https://arxiv.org/abs/2412.05723) got accepted at ICLR 2025 “QUESTION” Workshop!
+  #         * [10/2024] Our [work on Bayesian PEFT for LLMs](https://arxiv.org/abs/2406.11675) has been accepted to the **NeruIPS 2024**! 
+  #         * [04/2024] I am honored to have participated in the [survey on Continual Learning of LLMs](https://arxiv.org/abs/2404.16789).
+  #         * [05/2023] My [first work on certified robutness of NLP](https://aclanthology.org/2023.findings-acl.42/) has been accepted to the **findings of ACL 2023**! 
+  #   design:
+  #     # Choose how many columns the section has. Valid values: '1' or '2'.
+  #     columns: '2'
 
   - block: collection
     id: featured
