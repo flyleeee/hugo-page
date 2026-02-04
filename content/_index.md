@@ -59,7 +59,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Publications
+      title: Selected Publications
       # text: ''
       # Choose how many pages you would like to display (0 = all pages)
       count: 0
