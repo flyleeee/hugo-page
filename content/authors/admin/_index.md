@@ -22,13 +22,13 @@ organizations:
     url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests focus on LLMs and RL, particularly in the areas of calibration and generalization.
+bio: My research interests focus on LLM thinking, Bayesian LLMs and Trustworthy AI.
 
 # Interests to show in About widget
 interests: 
+  - LLM thinking
   - Bayesian LLMs
-  - Adversarial Robustness
-  - Trustworthy Artificial Intelligence
+  - Trustworthy AI
   # - Protecting data copyright and privacy
   # - Theoretical Machine Learning
 
@@ -76,13 +76,13 @@ email: 'yibinlwang@gmail.com'
 highlight_name: true
 ---
  
-I received my Bachelor's degree at Huazhong University of Science and Technology in 2024. 
+I am an incoming Ph.D. student in the [Computer Science Department at Rutgers University](https://www.cs.rutgers.edu/). I received my Bachelor's degree at Huazhong University of Science and Technology in 2024. 
 
 I was under the guidance of Prof. [Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ) @ HUST, Prof. [Hao Wang](http://www.wanghao.in/) @ Rutgers and Prof. [Huan Zhang](https://www.huan-zhang.com/) @ UIUC.
 
 Here is my [CV](https://yibinwang.netlify.app/uploads/resume.pdf).
 
-My research interests focus on **LLMs and RL**, particularly in the areas of generalization, calibration and efficient training.
+My research interests focus on LLM thinking, Bayesian LLMs and Trustworthy AI.
 
 
 > From such a gentle thing, from such a fountain of all delight, my every pain is born. <br> —— Michelangelo

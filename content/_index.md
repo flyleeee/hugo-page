@@ -118,6 +118,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Ph.D., Computer Science
+          company: Rutgers University
+          company_url: 'https://www.cs.rutgers.edu/'
+          company_logo: rutgers
+          location: New Jersey, US
+          date_start: '2026-09-01'
+          date_end: 
         - title: Bachelor of Engineer, Computer Science
           company: Huazhong University of Science and Technology
           company_url: 'http://english.hust.edu.cn/'
