@@ -80,8 +80,6 @@ I am an incoming Ph.D. student in the [Computer Science Department at Rutgers Un
 
 I was under the guidance of Prof. [Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ) @ HUST, Prof. [Hao Wang](http://www.wanghao.in/) @ Rutgers and Prof. [Huan Zhang](https://www.huan-zhang.com/) @ UIUC.
 
-Here is my [CV](https://yibinwang.netlify.app/uploads/resume.pdf).
-
 My research interests focus on LLM thinking, Bayesian LLMs and Trustworthy AI.
 
 
