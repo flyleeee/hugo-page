@@ -121,7 +121,7 @@ sections:
         - title: Ph.D., Computer Science
           company: Rutgers University
           company_url: 'https://www.cs.rutgers.edu/'
-          company_logo: rutgers
+          company_logo: rutgers_s
           location: New Jersey, US
           date_start: '2026-09-01'
           date_end: 
