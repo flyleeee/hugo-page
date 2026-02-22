@@ -17,8 +17,8 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: "The Fourteenth International Conference on Learning Representations (ICLR), 2025"
-publication_short: "ICLR 2025"
+publication: "The Fourteenth International Conference on Learning Representations (ICLR), 2026"
+publication_short: "ICLR 2026"
 abstract: While Large Language Models (LLMs) have demonstrated impressive capabilities, their output quality remains inconsistent across various application scenarios, making it difficult to identify trustworthy responses, especially in complex tasks requiring multi-step reasoning. In this paper, we propose a Token-level Uncertainty estimation framework for Reasoning (TokUR) that enables LLMs to self-assess and self-improve their responses in mathematical reasoning. Specifically, we introduce low-rank random weight perturbation during LLM decoding to generate predictive distributions for token-level uncertainty estimation, and we aggregate these uncertainty quantities to capture the semantic uncertainty of generated responses. Experiments on mathematical reasoning datasets of varying difficulty demonstrate that TokUR exhibits a strong correlation with answer correctness and model robustness, and the uncertainty signals produced by TokUR can be leveraged to enhance the model's reasoning performance at test time. These results highlight the effectiveness of TokUR as a principled and scalable approach for improving the reliability and interpretability of LLMs in challenging reasoning tasks.
 image:
   filename: avatar.jpg
