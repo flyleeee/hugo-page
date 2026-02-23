@@ -30,7 +30,7 @@ url_source: ""
 url_video: ""
 title: "TokUR: Token-Level Uncertainty Estimation for Large Language Model Reasoning"
 doi: ""
-featured: true
+featured: false
 tags:
   - Bayesain Deep Learning
   - Trustworthy AI

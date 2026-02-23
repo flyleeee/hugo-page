@@ -15,7 +15,7 @@ publication: "Advances in Neural Information Processing Systems (NeurIPS), 2025"
 publication_short: "NeurIPS 2025"
 abstract: Estimating the uncertainty of responses of Large Language Models~(LLMs) remains a critical challenge. While recent Bayesian methods have demonstrated effectiveness in quantifying uncertainty through low-rank weight updates, they typically require complex fine-tuning or post-training procedures. In this paper, we propose Training-Free Bayesianization~(TFB), a novel framework that transforms existing off-the-shelf trained LoRA adapters into Bayesian ones without additional training. TFB systematically searches for the maximally acceptable level of variance in the weight posterior, constrained within a family of low-rank isotropic Gaussian distributions. We theoretically demonstrate that under mild conditions, this search process is equivalent to variational inference for the weights. Through comprehensive experiments, we show that TFB achieves superior uncertainty estimation and generalization compared to existing methods while eliminating the need for complex training procedures. Code will be available at [this https URL](https://github.com/Wang-ML-Lab/bayesian-peft).
 image:
-  filename: avatar.jpg
+  filename: featured.jpg
   focal_point: Center
   preview_only: false
 url_dataset: ""

@@ -27,7 +27,7 @@ tags:
   - Large Language Models
 projects: []
 image:
-  filename: avatar.png
+  filename: blob.png
   focal_point: Center
   preview_only: false
 date: 2024-06-17T00:00:00Z

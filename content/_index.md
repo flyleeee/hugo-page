@@ -56,10 +56,23 @@ sections:
   #     # Choose how many columns the section has. Valid values: '1' or '2'.
   #     columns: '2'
 
+
   - block: collection
     id: featured
     content:
-      title: Selected Publications
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
+
+  - block: collection
+    id: pubs
+    content:
+      title: Publications
       # text: ''
       # Choose how many pages you would like to display (0 = all pages)
       count: 0
@@ -279,17 +292,7 @@ sections:
   #   design:
   #     columns: '1'
 
-  # - block: collection
-  #   id: featured
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     columns: '2'
-  #     view: card
+
 
 
   # - block: collection
