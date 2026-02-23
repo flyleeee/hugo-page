@@ -37,7 +37,6 @@ author_notes:
   - Equal contribution
   - Equal contribution
 publication: In *Findings of ACL 2023*
-abstract: Natural Language Processing (NLP) models have gained great success on clean texts, but they are known to be vulnerable to adversarial examples typically crafted by synonym substitutions. In this paper, we target to solve this problem and find that word embedding is important to the certified robustness of NLP models. Given the findings, we propose the Embedding Interval Bound Constraint (EIBC) triplet loss to train robustness-aware word embeddings for better certified robustness.
 url_dataset: ""
 url_project: ""
 publication_short: In *Findings of ACL 2023*
